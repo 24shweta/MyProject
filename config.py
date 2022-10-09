@@ -1,0 +1,2 @@
+model_path = r"C:\Users\rushi\OneDrive\Desktop\python projects 27.06.22\project dataset\BIg mart project/Big_mart.pkl"
+re_dta = r"C:\Users\rushi\OneDrive\Desktop\python projects 27.06.22\project dataset\BIg mart project/replace_data.json"
